@@ -15,3 +15,9 @@ print("best notes about modern python")
 > that it will be soon
 
 ---
+
+```python
+
+print("new features")
+
+```
